@@ -20,6 +20,10 @@ body {
   background-color: var(--generic-template-background) !important;
 }
 
+.accordion-body {
+    background-color: #f4f4f6;
+}
+
 .template-header {
   background: var(--generic-template-background);
   height: 15vh;
