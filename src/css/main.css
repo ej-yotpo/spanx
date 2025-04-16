@@ -44,6 +44,7 @@ body {
 }
 
 .logo img {
+  mix-blend-mode: darken;
   width: var(--logo-width);
 }
 
